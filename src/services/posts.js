@@ -37,5 +37,6 @@ export async function updatePost(postId, { title, author, contents, tags }) {
 }
 
 export async function deletePost(postId) {
+  // just to see the test.
   return await Post.deleteOne({ _id: postId })
 }

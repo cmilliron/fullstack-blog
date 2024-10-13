@@ -1,6 +1,6 @@
-# Modern Full-Stack React Projects / Chapter 2
+# Modern Full-Stack React Projects - Project 1
 
-_Getting to Know Node.js and MongoDB_
+## Blog
 
 ## Requirements
 
