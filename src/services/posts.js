@@ -16,7 +16,7 @@ export async function listAllPosts(options) {
   return await listPosts({}, options)
 }
 
-export async function listByAuthor(author, options) {
+export async function listPostsByAuthor(author, options) {
   return await listPosts({ author }, options)
 }
 
